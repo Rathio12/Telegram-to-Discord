@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Telegram -&gt; Discord Bridge</title>
+  <desc id="desc">Telegram to Discord Bridge</desc>
+  <rect width="1200" height="300" rx="20" fill="#071b22"/>
+  <path d="M0 248 C210 170 330 292 530 220 S880 150 1200 230" fill="none" stroke="#123b35" stroke-width="62"/>
+  <path d="M0 250 C210 172 330 294 530 222 S880 152 1200 232" fill="none" stroke="#36d1dc" stroke-width="3" opacity=".8"/>
+  <g transform="translate(70 68)">
+    <rect width="112" height="112" rx="25" fill="#36d1dc"/>
+    <path d="M28 38h56v42H28z" fill="#071b22"/>
+    <path d="M40 92h32" stroke="#071b22" stroke-width="8" stroke-linecap="round"/>
+    <path d="M40 53h32M40 66h22" stroke="#36d1dc" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="90" cy="23" r="14" fill="#f0b35b"/>
+  </g>
+  <text x="230" y="116" fill="#eef8f6" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">TELEGRAM -&gt; DISCORD BRIDGE</text>
+  <text x="232" y="164" fill="#8edfe0" font-family="Segoe UI, Arial, sans-serif" font-size="21" letter-spacing="3">LIVE LOG DELIVERY</text>
+  <text x="232" y="213" fill="#c4d8d2" font-family="Segoe UI, Arial, sans-serif" font-size="20">Live logs. Clean embeds. Reliable delivery.</text>
+</svg>

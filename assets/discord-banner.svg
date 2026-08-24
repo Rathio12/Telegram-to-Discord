@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Telegram -&gt; Discord Bridge</title>
+  <desc id="desc">Telegram to Discord Bridge banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071b22"/>
+      <stop offset="1" stop-color="#102d2a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36d1dc"/>
+      <stop offset="1" stop-color="#f0b35b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="400" rx="24" fill="url(#bg)"/>
+  <path d="M0 330 C260 240 420 390 670 300 S1120 200 1600 300" fill="none" stroke="#173d3d" stroke-width="90" opacity=".55"/>
+  <path d="M0 332 C260 242 420 392 670 302 S1120 202 1600 302" fill="none" stroke="url(#line)" stroke-width="4" opacity=".8"/>
+  <g transform="translate(92 82)">
+    <rect width="116" height="116" rx="26" fill="#36d1dc"/>
+    <path d="M30 42h56v42H30z" fill="#071b22"/>
+    <path d="M42 96h32" stroke="#071b22" stroke-width="8" stroke-linecap="round"/>
+    <path d="M42 57h32M42 70h22" stroke="#36d1dc" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="92" cy="25" r="15" fill="#f0b35b"/>
+    <path d="M85 25h14" stroke="#071b22" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="250" y="145" fill="#eef8f6" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">TELEGRAM -&gt; DISCORD BRIDGE</text>
+  <text x="254" y="205" fill="#8edfe0" font-family="Segoe UI, Arial, sans-serif" font-size="28" letter-spacing="3">TELEGRAM  /  DISCORD  /  LIVE LOGS</text>
+  <text x="254" y="268" fill="#c4d8d2" font-family="Segoe UI, Arial, sans-serif" font-size="25">Reliable event delivery with Rich terminal monitoring</text>
+  <circle cx="1430" cy="116" r="5" fill="#f0b35b"/>
+  <circle cx="1460" cy="116" r="5" fill="#36d1dc"/>
+  <circle cx="1490" cy="116" r="5" fill="#eef8f6" opacity=".7"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Majestic Log Bridge avatar</title>
+  <desc id="desc">A cyan bridge icon on a dark green background</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071b22"/>
+      <stop offset="1" stop-color="#123b35"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="170" fill="#36d1dc" opacity=".12"/>
+  <path d="M142 174h228v154H142z" fill="#36d1dc"/>
+  <path d="M178 214h156v78H178z" fill="#071b22"/>
+  <path d="M204 240h104M204 266h72" stroke="#36d1dc" stroke-width="18" stroke-linecap="round"/>
+  <path d="M190 362h132" stroke="#f0b35b" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="368" cy="146" r="34" fill="#f0b35b"/>
+  <path d="M351 146h34" stroke="#071b22" stroke-width="10" stroke-linecap="round"/>
+</svg>
